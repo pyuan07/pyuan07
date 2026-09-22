@@ -2,7 +2,7 @@
 
 Software Engineer based in Singapore & Malaysia. I build RESTful APIs and responsive web apps, and I'm increasingly into integrating AI to make applications smarter.
 
-Currently at **Morpheus Consulting** · BSc (Hons) Software Engineering, **Asia Pacific University** (First Class Honours)
+BSc (Hons) Software Engineering, **Asia Pacific University** (First Class Honours)
 
 ## 🛠️ Tech Stack
 
